@@ -1,0 +1,20 @@
+{
+  "01_prague_mirror": {
+    "input": "data/sketches/01_prague_mirror.png",
+    "reference": "data/references/01_prague_mirror_original.jpg",
+    "prompt": "A richly detailed, realistic illustration of Prague's historic Old Town skyline and Charles Bridge over the Vltava river at sunset, preserve the exact arrangement of the towers, rooftops and three visible bridge arches from the pencil sketch, warm golden-hour light, painterly travel-poster aesthetic, intricate architecture",
+    "negative_prompt": "extra bridges, distorted buildings, unreadable text, watermark, blurry, low quality"
+  },
+  "02_brugge_coaster": {
+    "input": "data/sketches/02_brugge_coaster.png",
+    "reference": "data/references/02_brugge_coaster_original.jpg",
+    "prompt": "A vintage illustrated souvenir coaster design featuring the historic Belgian city of Bruges, preserve the rectangular rounded border, central BRUGGE lettering, surrounding medieval stepped-gable buildings, flowers and decorative motifs from the sketch, warm cream parchment, sepia and muted terracotta ink, elegant European travel souvenir aesthetic",
+    "negative_prompt": "misspelled text, extra lettering, watermark, distorted border, blurry, low quality"
+  },
+  "03_cowboy_cactus": {
+    "input": "data/sketches/03_cowboy_cactus.png",
+    "reference": "data/references/03_cowboy_cactus_original.jpg",
+    "prompt": "A playful colorful folk-art painting of a cheerful green saguaro cactus with two curved arms, dotted spines, two small white flowers and a large yellow cowboy hat with a red band, bright warm orange background, preserve the exact pose and proportions of the hand-drawn sketch, acrylic on canvas, bold simple shapes",
+    "negative_prompt": "extra arms, extra flowers, missing cowboy hat, realistic desert scene, text, watermark, blurry"
+  }
+}
